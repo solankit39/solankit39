@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @solankit39
-- 👀 I’m interested in next js-typescript, tailwind, strapi, postgreSql,  
+- 👋 Hi, I’m Ankit Solanki
+- 👀 I’m interested in next js-typescript, tailwind, strapi, sanity, postgreSql, graphSQL, redux, zustand, storybook, cypress, 
 - 🌱 I’m currently learning full stack development 
 - 💞️ I’m looking to collaborate on next js projects 
 - 📫 How to reach me on social media ig@so_anki_404
